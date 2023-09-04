@@ -1,0 +1,3 @@
+Hello world.
+
+This is a learning exercise file and has no value to anyone.
